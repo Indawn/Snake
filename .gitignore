@@ -1,5 +1,9 @@
 # Prerequisites
 *.d
+debug/
+.vs/
+*.sdf
+*.opensdf
 
 # Compiled Object files
 *.slo
@@ -30,3 +34,5 @@
 *.exe
 *.out
 *.app
+Snake.sdf
+*.sdf
