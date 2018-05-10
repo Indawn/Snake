@@ -36,3 +36,5 @@ debug/
 *.app
 Snake.sdf
 *.sdf
+ipch/SNAKE-91fcc819/SNAKE-4538cf88.ipch
+*.APS
